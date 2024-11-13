@@ -33,18 +33,17 @@ The **Amazon Clone** project is a front-end recreation of the popular e-commerce
 ## Screenshots
 
 ### 1. Navbar and Search Bar
-![Navbar](![image](https://github.com/user-attachments/assets/3efe8484-af9c-4fcc-a27b-87b373402b09)
-)
+![Navbar](https://github.com/user-attachments/assets/3efe8484-af9c-4fcc-a27b-87b373402b09)
 
 ### 2. Hero Section
-![Hero Section](![image](https://github.com/user-attachments/assets/1fdac9ad-cb5c-4e8b-bbc5-498b34c646ed))
+![Hero Section](https://github.com/user-attachments/assets/1fdac9ad-cb5c-4e8b-bbc5-498b34c646ed)
 
 ### 3. Product Categories
-![Product Categories](![image](https://github.com/user-attachments/assets/53d53102-36ce-4734-aa2c-0ade4c69fc02))
-![Product Categories](![image](https://github.com/user-attachments/assets/7d94f243-ee28-4bdd-8158-6448e373107e))
+![Product Categories](https://github.com/user-attachments/assets/53d53102-36ce-4734-aa2c-0ade4c69fc02)
+![Product Categories](https://github.com/user-attachments/assets/7d94f243-ee28-4bdd-8158-6448e373107e)
 
 ### 4. Footer
-![Footer](![image](https://github.com/user-attachments/assets/b51f89d6-5990-48f4-bdee-c7a500c8147b))
+![Footer](https://github.com/user-attachments/assets/b51f89d6-5990-48f4-bdee-c7a500c8147b)
 
 ## Folder Structure
 
